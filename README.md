@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
@@ -102,8 +103,8 @@
           'Area Bangunan'
         ];
         const colors = [
-          '#130292',
           '#E09600',
+          '#130292',
           '#1916ca',
           '#fd0d0d',
           '#f5009b',
