@@ -51,9 +51,9 @@
         padding: 10px;
         box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
         line-height: 18px;
-        height: 150px;
+        height: 170px;
         margin-bottom: 40px;
-        width: 100px;
+        width: 200px;
       }
       .legend-key {
         display: inline-block;
